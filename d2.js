@@ -1,0 +1,1 @@
+﻿document.writeln("<a class=\"vod-botx-title-gd\" href=\"https://51sis.vip/?dc=THD2\" ontouchstart=\"this.click();\"></a>");
